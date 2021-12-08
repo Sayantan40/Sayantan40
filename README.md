@@ -1,7 +1,7 @@
-**Hi there, I'm Sonu - aka [Sayantan40]** 👋
+# **Hi there, I'm Sonu - aka [Sayantan40]** 👋
 
 
-**I'm a Student , Developer, and Civil Engineer!!**
+# I'm a Student , Developer, and Civil Engineer!!
 
 - 🔭 I just launched myself in the world of Computer programming and Machine Learning and Artifical Intelligence.  : [Become A Python SuperHero!]!
 - 🌱 I’m currently learning everything or learning is a never ending cycle LOL🤣
