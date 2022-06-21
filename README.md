@@ -31,6 +31,7 @@
 <img align="left" alt="Terminal" width="26px" src=https://user-images.githubusercontent.com/88722031/145215300-1e1d98e6-93f3-4d34-8511-11103b84ebae.png />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88722031/145215441-831bf4d9-6ca6-4b79-9867-3e738a8cbabd.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88722031/145215494-4bd308c6-bc3c-4cba-95cb-b5f360eee3fa.jpg" />
+![Github logo](https://user-images.githubusercontent.com/88722031/174847043-10103975-7339-45d5-abb9-2b63eba06e2e.png)
 
 
 
