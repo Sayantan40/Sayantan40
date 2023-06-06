@@ -9,6 +9,15 @@
 - 🥅 2022 Goals: Asprining to be a Data Scientist/Data Analyst.
 - ⚡ Fun fact: I love to draw and play video games.
 
+## Things you should know
+
+- 🔭 <b>Currently working on:</b> Python, SQL, Data Science, Machine Learning, Deep Learning
+- 🌱 <b>Getting better at:</b> SQL, Python, Datastructure & Algorithms with Python, Machine Learning
+- 🤔 <b>Exploring:</b> Natural Language Processing and MLOps
+- 💬 <b>Ask me about:</b> Python, Data Science, Machine Learning, Deep Learning
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:sayantanmitra.kol28@gmail.com" target="_blank">sayantanmitra.kol28@gmail.com</a>
+
+
 ### Connect with me:
 
 <img align="left" alt="Sayantan40 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,8 +25,20 @@
 
 <br />
 
+### My Stacks
 
-### Languages and Tools:
+```json
+{
+  "languages": ["Python", "R(Basic)", "SQL"],
+  "frameworks/libraries": ["Scikit-Learn", "Pandas", "Numpy", "Matplotlib", "seaborn",  "Tensorflow", "Tensorflow Extended", "Keras", "Pytorch"]
+  "database": ["Mysql", "Mongo DB"],
+  "misc": ["Docker", "MLOps", "CI/CD"],
+  "cloud": ["GCP", "AWS"]
+  "tools": ["Visual Studio Code", "Pycharm"]
+}
+```
+
+### Languages, Technology and Tools:
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -32,7 +53,17 @@
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88722031/145215494-4bd308c6-bc3c-4cba-95cb-b5f360eee3fa.jpg" />
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88722031/174847043-10103975-7339-45d5-abb9-2b63eba06e2e.png" />
 
-
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <br />
 <br />
@@ -42,5 +73,12 @@
 [instagram]:
 [linkedin]:https://www.linkedin.com/in/sayantan-mitra-029b10190/
 
+
+
+## &#x1f4c8; GitHub Stats
+
+![Upendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayantan40&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayantan40&hide_progress=false)](https://github.com/Sayantan40/github-readme-stats)
 
 
