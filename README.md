@@ -1,10 +1,10 @@
 # **Hi there, I'm Sonu - aka [Sayantan40]** 👋
 
 
-# I'm a Student , Developer, and Civil Engineer!!
+# I'm a Jobseeker , Developer, and Civil Engineer!!
 
 - 🔭 I just launched myself in the world of Computer programming and Machine Learning and Artifical Intelligence.  : [Become A Python SuperHero!]!
-- 🌱 I’m currently learning everything or learning is just a never ending cycle LOL🤣
+- 🌱 I’m currently trying to do the best I can and learning new things is just a never ending cycle LOL🤣
 - 👯 I’m looking forward to work hard to reach my goal.
 - 🥅 2022 Goals: Asprining to be a Data Scientist/Data Analyst.
 - ⚡ Fun fact: I love to draw and play video games.
