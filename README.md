@@ -15,7 +15,7 @@
 - 🌱 <b>Getting better at:</b> SQL, Python, Datastructure & Algorithms with Python, Machine Learning
 - 🤔 <b>Exploring:</b> Natural Language Processing and MLOps
 - 💬 <b>Ask me about:</b> Python, Data Science, Machine Learning, Deep Learning
-- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:sayantanmitra.kol28@gmail.com" target="_blank">sayantanmitra.kol28@gmail.com</a>
+- 📫 <b>Reach me out:</b> Shoot a mail at <a href="mailto:sayantanmitra.kol14@gmail.com" target="_blank">sayantanmitra.kol28@gmail.com</a>
 
 
 ### Connect with me:
